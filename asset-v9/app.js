@@ -24,11 +24,11 @@ var app = new function(){
 	this.spritepolo = 'polo-sprite.png';
 	this.spritepicto = 'game-picto@2x.png';
 
-	this.col0 = '#6EB950';// light
-	this.col1 = '#41A032';// normal
-	this.col2 = '#2D7D28';// dark
-	this.col3 = '#235023';// more dark (:active)
-	this.col4 = '#14321E';// very dark
+	this.col0 = '#008EFF';// light
+	this.col1 = '#005CFA';// normal
+	this.col2 = '#0048C3';// dark
+	this.col3 = '#00348C';// more dark (:active)
+	this.col4 = '#002055';// very dark
 	
 	this.animearray = [
 		{name:'01_boo_9',			color:'9448ff', uniqsnd:false},
@@ -49,7 +49,7 @@ var app = new function(){
 		{name:'16_el_cool_p',	color:'fa340f', uniqsnd:false},
 		{name:'17_memphis',	 	color:'2c86fe', uniqsnd:false},
 		{name:'18_jogg_d',	 	color:'ffca06', uniqsnd:false},
-		{name:'19_palapa',		color:'19d428', uniqsnd:false},
+		{name:'19_scooter',		color:'19d428', uniqsnd:false},
 		{name:'20_lil_blaze',	color:'2c86fe', uniqsnd:false}
 	];
 	 
